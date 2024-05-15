@@ -1,0 +1,1 @@
+java -jar d:/bundletool-all-1.16.0.jar build-apks --bundle application-14578e28-648a-4aa0-a2a1-b668dc003a71.aab --output StickerSmash.apks --ks my-release-key.keystore --key-pass pass:123456 --ks-key-alias my-key-alias --ks-pass pass:123456 --overwrite --mode=universal
