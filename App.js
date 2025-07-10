@@ -91,7 +91,7 @@ export default function App() {
       }
     }
   }
-
+// 牢记 视图是状态的函数，
   return (
     <GestureHandlerRootView style={styles.container}>
       <View style={styles.imageContainer}>
